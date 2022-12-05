@@ -17,7 +17,7 @@ journey as a full-stack web developer.</p>
 
 - 📫 How to reach me **muskantamrakar2442@gmail.com**
 
-- 📄 Resume Here-(Resume Here-https://drive.google.com/file/d/1qgmYILIqHQnWTDtTFa7EuXuF6Zpm5YAF/view?usp=sharing)
+- 📄 Resume Here-(Resume-https://drive.google.com/file/d/1qgmYILIqHQnWTDtTFa7EuXuF6Zpm5YAF/view?usp=sharing)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskantamrakar" alt="muskantamrakar" /></a> </p>
 <h3 align="left">Connect with me:</h3>
