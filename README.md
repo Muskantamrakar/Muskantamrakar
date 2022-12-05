@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **muskantamrakar2442@gmail.com**
 
-- 📄 Know about my experiences [https://resume.in](https://resume.in)
+- 📄 Know about my experiences-https://muskantamrakar.github.io/
+
 -📜 Resume Here-https://drive.google.com/file/d/1qgmYILIqHQnWTDtTFa7EuXuF6Zpm5YAF/view?usp=sharing
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskantamrakar" alt="muskantamrakar" /></a> </p>
