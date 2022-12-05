@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muskan Tamrakar</h1>
-<p>Dedicated and motivational aspiring full-stack web developer
-proficientin MERN stack. Collaborative team player, eagerto work
-with interdisciplinary teams for organizational growth with a
-passion for creating new products.Looking forward to starting the
-journey as a full-stack web developer.</p>
 <h3 align="center">A passionate full stack web developer</h3>
 <img />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskantamrakar&label=Visitors%20&color=0e75b6&style=flat" alt="muskantamrakar" /> </p>
@@ -13,12 +8,13 @@ journey as a full-stack web developer.</p>
 
 - 👨‍💻 All of my projects are available at [https://myPortfolio.in](https://myPortfolio.in)
 
-- 💬 Ask me about **reactJS,ES6,css,html,MongoDB,nodeJs,expressheroku,**
+- 💬 Ask me about **JavaScript,CSS,HTML,React JS,ES6,Mongodb,NodeJs,Express,**
 
 - 📫 How to reach me **muskantamrakar2442@gmail.com**
 
 - 📄 Know about my experiences [https://resume.in](https://resume.in)
--📜 Resume Here-https://drive.google.com/file/d/1qgmYILIqHQnWTDtTFa7EuXuF6Zpm5YAF/view?usp=sharing
+- 📜 Resume Here-https://drive.google.com/file/d/1qgmYILIqHQnWTDtTFa7EuXuF6Zpm5YAF/view?usp=sharing
+-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskantamrakar" alt="muskantamrakar" /></a> </p>
 <h3 align="left">Connect with me:</h3>
