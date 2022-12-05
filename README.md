@@ -6,13 +6,11 @@
 <img align="right"  width="40%" height="280px" src="https://indoanalytica.com/static/images/web-development-1.gif"></img>
 - 🌱 I’m currently learning **Full Stack web Development(MERN Stack)**
 
-- 👨‍💻 All of my projects are available at [https://myPortfolio.in](https://myPortfolio.in)
+- 👨‍💻 All of my projects are available at [[https://myPortfolio.in](https://myPortfolio.in)](https://muskantamrakar.github.io/)
 
 - 💬 Ask me about **reactJS,ES6,css,html,MongoDB,nodeJs,expressheroku,**
 
 - 📫 How to reach me **muskantamrakar2442@gmail.com**
-
-- 📄 Know about my experiences-https://muskantamrakar.github.io/
 
 -📜 Resume Here-https://drive.google.com/file/d/1qgmYILIqHQnWTDtTFa7EuXuF6Zpm5YAF/view?usp=sharing
 
