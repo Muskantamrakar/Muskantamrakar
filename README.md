@@ -50,6 +50,10 @@ journey as a full-stack web developer.</p>
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</br>
+</br>
+</br>
+</br>
 
 <p >
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskantamrakar&show_icons=true&locale=en&layout=compact" alt="muskantamrakar" /></p>
@@ -57,4 +61,4 @@ journey as a full-stack web developer.</p>
 &nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=muskantamrakar&show_icons=true&locale=en" alt="muskantamrakar" />
 </p>
 
-<p><img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muskantamrakar&" alt="muskantamrakar" /></p>
+<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muskantamrakar&" alt="muskantamrakar" /></p>
