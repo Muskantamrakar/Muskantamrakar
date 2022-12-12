@@ -57,4 +57,4 @@ journey as a full-stack web developer.</p>
 &nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=muskantamrakar&show_icons=true&locale=en" alt="muskantamrakar" />
 </p>
 
-<p ><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muskantamrakar&" alt="muskantamrakar" /></p>
+<p><img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muskantamrakar&" alt="muskantamrakar" /></p>
