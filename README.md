@@ -52,9 +52,9 @@ journey as a full-stack web developer.</p>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 
 <p >
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskantamrakar&show_icons=true&locale=en&layout=compact" alt="muskantamrakar" /></p>
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskantamrakar&show_icons=true&locale=en&layout=compact" alt="muskantamrakar" /></p>
 <p >
-&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=muskantamrakar&show_icons=true&locale=en" alt="muskantamrakar" />
+&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=muskantamrakar&show_icons=true&locale=en" alt="muskantamrakar" />
 </p>
 
-<p  display="flex" align="center"><img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskantamrakar&" alt="muskantamrakar" /></p>
+<p  display="flex" align="center"><img align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskantamrakar&" alt="muskantamrakar" /></p>
