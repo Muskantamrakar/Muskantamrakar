@@ -55,10 +55,17 @@ journey as a full-stack web developer.</p>
 </br>
 </br>
 
-<p >
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskantamrakar&show_icons=true&locale=en&layout=compact" alt="muskantamrakar" /></p>
-<p >
-&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=muskantamrakar&show_icons=true&locale=en" alt="muskantamrakar" />
-</p>
 
-<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muskantamrakar&" alt="muskantamrakar" /></p>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=furqan5921&theme=radical" alt="furqan" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=muskantamrakar&show_icons=true&theme=radical" alt-"furqan height="255px" width="47%"/>
+</div>
+<p >
+  <img align="center" width="450" backgroundcolor="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskantamrakar&show_icons=true&locale=en&layout=compact" alt="muskantamrakar" /></p>
+  
+  
+<!-- <p >
+&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=muskantamrakar&show_icons=true&locale=en" alt="muskantamrakar" />
+</p> -->
+
+<!-- <p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muskantamrakar&" alt="muskantamrakar" /></p> -->
