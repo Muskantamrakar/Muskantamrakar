@@ -2,16 +2,17 @@
   <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&left=true&width=400&height=50"></a>
 
 <h1 align="center">Hi, I'm Muskan Tamrakar</h1>
+<h3 align="center">A passionate full stack web developer.</h3>
 <p>Dedicated and motivational aspiring full-stack web developer
 proficientin MERN stack. Collaborative team player, eagerto work
 with interdisciplinary teams for organizational growth with a
 passion for creating new products.Looking forward to starting the
 journey as a full-stack web developer.</p>
-<h3 align="center">A passionate full stack web developer.</h3>
+
 
 <img align="right"  width="40%" height="280px" src="https://indoanalytica.com/static/images/web-development-1.gif"></img>
 
-- 🌱 I’m currently learning : **Reactjs**
+- 🌱 I’m currently learning : **Full stack web development**
 
 - 👨‍💻 All of my projects are available at: https://muskantamrakar.github.io/
 
@@ -21,7 +22,7 @@ journey as a full-stack web developer.</p>
 
 - 📫 How to reach me : **muskantamrakar2442@gmail.com**
 
-- ⚡ Fun fact : **Black Coffee over sleep**
+- ⚡ Fun fact : **Black Coffee over sleep☕...**
 
 - ⚡ I'm creative and critical thinker in terms of development.
 
