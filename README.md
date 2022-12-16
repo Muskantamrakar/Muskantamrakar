@@ -18,7 +18,7 @@ journey as a full-stack web developer.</p>
 
 - 💬 Ask me about : **MERN Stack & Javascript**
 
-- 💬 Resume here: https://drive.google.com/file/d/1FzHQpwXtJu0dbpY5eq5GKNO-yOY63q91/view?usp=share_link
+- 💬 Resume here
 
 - 📫 How to reach me : **muskantamrakar2442@gmail.com**
 
