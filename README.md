@@ -14,11 +14,11 @@ journey as a full-stack web developer.</p>
 
 - 🌱 I’m currently learning : **Full stack web development**
 
-- 👨‍💻 All of my projects are available at: https://muskantamrakar.github.io/
+- 👨‍💻 All of my projects are available at:<a href="https://muskantamrakar.github.io/">Portfolio</a>
 
 - 💬 Ask me about : **MERN Stack & Javascript**
 
-- 💬 Resume here
+- <a href="https://drive.google.com/file/d/1qgmYILIqHQnWTDtTFa7EuXuF6Zpm5YAF/view?usp=sharing">💬 Resume</a>
 
 - 📫 How to reach me : **muskantamrakar2442@gmail.com**
 
