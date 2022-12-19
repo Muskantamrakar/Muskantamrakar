@@ -32,9 +32,9 @@ journey as a full-stack web developer.</p>
 <p align="left">- 💬 Linkedin:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muskan-tamrakar-7a5258236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muskan-tamrakar-7a5258236/" height="30" width="40" /></a></br>
 - 💬 Email: <a href="https://medium.com/@muskantamrakar2442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muskantamrakar2442" height="30" width="40" /></a>
-</p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskantamrakar" alt="muskantamrakar" /></a> </p> -->
+</p>
+ -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskantamrakar" alt="muskantamrakar" /></a> </p>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
