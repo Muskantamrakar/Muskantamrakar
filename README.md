@@ -20,7 +20,8 @@ journey as a full-stack web developer.</p>
 
 - 👨‍💻 All of my projects are available at:<a href="https://muskantamrakar.github.io/"> Portfolio</a>
 
- 👨‍💻 All of my projects are available at:<a href="[https://muskantamrakar.github.io/](https://www.linkedin.com/in/muskan-tamrakar-7a5258236)"> Linkedin</a>
+ <a href="https://www.linkedin.com/in/muskan-tamrakar-7a5258236">Linkedin</a>
+
 
 - 📫 How to reach me : **muskantamrakar2442@gmail.com**
 
