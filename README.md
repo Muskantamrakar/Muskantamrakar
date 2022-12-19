@@ -16,12 +16,11 @@ journey as a full-stack web developer.</p>
 
 - 💬 Ask me about : **MERN Stack & Javascript**
 
-- <a href="https://drive.google.com/file/d/1qgmYILIqHQnWTDtTFa7EuXuF6Zpm5YAF/view?usp=sharing">💬 Resume</a>
-
 - 👨‍💻 All of my projects are available at:<a href="https://muskantamrakar.github.io/"> Portfolio</a>
 
- <a href="https://www.linkedin.com/in/muskan-tamrakar-7a5258236">Linkedin</a>
+- <a href="https://drive.google.com/file/d/1qgmYILIqHQnWTDtTFa7EuXuF6Zpm5YAF/view?usp=sharing">💬 Resume</a>
 
+- <a href="https://www.linkedin.com/in/muskan-tamrakar-7a5258236">📑 Linkedin</a>
 
 - 📫 How to reach me : **muskantamrakar2442@gmail.com**
 
