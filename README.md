@@ -21,7 +21,7 @@ journey as a full-stack web developer.</p>
 
 - <a href="https://drive.google.com/file/d/1qgmYILIqHQnWTDtTFa7EuXuF6Zpm5YAF/view?usp=sharing">💬 Resume</a>
 
-- 📑 Linkedin -<a href="https://www.linkedin.com/in/muskan-tamrakar-7a5258236">Linkedin</a>
+- 📑 <a href="https://www.linkedin.com/in/muskan-tamrakar-7a5258236">Linkedin</a>
 
 - 📫 How to reach me : **muskantamrakar2442@gmail.com**
 
