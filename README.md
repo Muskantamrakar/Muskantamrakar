@@ -34,6 +34,8 @@ journey as a full-stack web developer.</p>
 - 💬 Email: <a href="https://medium.com/@muskantamrakar2442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muskantamrakar2442" height="30" width="40" /></a>
 </p>
  -->
+ 
+ <h2>🏆My Achievement</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskantamrakar" alt="muskantamrakar" /></a> </p>
 
 # 💻 Tech Stack
